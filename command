@@ -1,4 +1,7 @@
 
+--git command file
+--https://education.github.com/git-cheat-sheet-education.pdf
+
 ////mapping and push new project on git
 Step 1 : - first create github or gitlab create repository
 step 2 : - then clone git repository folder to your system and then push command using git command 
