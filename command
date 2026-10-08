@@ -19,6 +19,7 @@ git push origin main
 
 git pull origin <branch_name>
 git add .
+git commit -m "new changes"
 git push origin <branch_name>
 
 
