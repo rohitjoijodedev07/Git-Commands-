@@ -15,5 +15,15 @@ git commit -m "First commit"
 git push origin main
 
 
+-------git pull change get and push updated code into git branch
+
+git pull origin <branch_name>
+git add .
+git push origin <branch_name>
+
+
+
+
+
 
 
