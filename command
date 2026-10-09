@@ -16,11 +16,13 @@ git commit -m "First commit"
 
 # Push without being prompted for credentials
 git push origin main
+git status
 
 
 -------git pull change get and push updated code into git branch
 
 git pull origin <branch_name>
+git status
 git add .
 git commit -m "new changes"
 git push origin <branch_name>
